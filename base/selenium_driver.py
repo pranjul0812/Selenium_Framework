@@ -159,7 +159,7 @@ class SeleniumDriver:
             self.log.error("Element not found")
             return False
 
-    def waitForElement(self, locator, locatorType='id', timeout=10, pollFrequency=0.5):
+    def waitForElement(self, locator, locatorType='id', timeout=10, pollFrequency=1):
         element = None
         try:
             byType = self.getByType(locatorType)
@@ -213,7 +213,6 @@ class SeleniumDriver:
         self.sendKeys(data, locator, locatorType)
         self.switchToWindow(parentHandle)
 
-    # RANDOM COMMENT
 
 
 

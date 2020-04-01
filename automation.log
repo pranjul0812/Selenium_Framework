@@ -567,3 +567,421 @@
 02/04/2020 03:57:24 - LoginPage - INFO: Element present with locator as //span[contains(text(), 'Test')] and locator type as xpath
 02/04/2020 03:57:24 - TestStatus - INFO: ###Verification Successful:: Valid Login Verification
 02/04/2020 03:57:24 - TestStatus - INFO: test_validLogin###Test Successful
+02/04/2020 04:07:27 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:07:27 - LoginPage - INFO: Element present with locator as Login and locator type as linktext
+02/04/2020 04:07:29 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:07:35 - LoginPage - INFO: Clicked on the element with locator as Login and locator type as linktext
+02/04/2020 04:07:35 - LoginPage - INFO: Element found with locator as user_email and locator type as id
+02/04/2020 04:07:35 - LoginPage - INFO: send data:: test@email.com :: to the element with locator as user_email and locator type as id
+02/04/2020 04:07:35 - LoginPage - INFO: Element found with locator as user_password and locator type as id
+02/04/2020 04:07:35 - LoginPage - INFO: send data:: abcabc :: to the element with locator as user_password and locator type as id
+02/04/2020 04:07:36 - LoginPage - INFO: Element found with locator as commit and locator type as name
+02/04/2020 04:07:43 - LoginPage - INFO: Clicked on the element with locator as commit and locator type as name
+02/04/2020 04:07:43 - NavigationPage - INFO: Element found with locator as All Courses and locator type as linktext
+02/04/2020 04:07:43 - NavigationPage - INFO: Element present with locator as All Courses and locator type as linktext
+02/04/2020 04:07:43 - NavigationPage - INFO: Element found with locator as All Courses and locator type as linktext
+02/04/2020 04:07:43 - NavigationPage - INFO: Clicked on the element with locator as All Courses and locator type as linktext
+02/04/2020 04:07:43 - RegisterCoursePage - INFO: Element found with locator as All Courses and locator type as linktext
+02/04/2020 04:07:44 - RegisterCoursePage - INFO: Clicked on the element with locator as All Courses and locator type as linktext
+02/04/2020 04:07:45 - RegisterCoursePage - INFO: Element found with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'Learn Python 3 from scratch')] and locator type as xpath
+02/04/2020 04:07:45 - RegisterCoursePage - INFO: Element present with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'Learn Python 3 from scratch')] and locator type as xpath
+02/04/2020 04:07:45 - RegisterCoursePage - INFO: Learn Python 3 from scratch is available
+02/04/2020 04:07:45 - RegisterCoursePage - INFO: Selecting the course :: Learn Python 3 from scratch
+02/04/2020 04:07:45 - RegisterCoursePage - INFO: Element found with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'Learn Python 3 from scratch')] and locator type as xpath
+02/04/2020 04:07:45 - RegisterCoursePage - INFO: Clicked on the element with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'Learn Python 3 from scratch')] and locator type as xpath
+02/04/2020 04:07:47 - RegisterCoursePage - INFO: Element found with locator as enroll-button-top and locator type as id
+02/04/2020 04:07:52 - RegisterCoursePage - INFO: Clicked on the element with locator as enroll-button-top and locator type as id
+02/04/2020 04:07:52 - RegisterCoursePage - INFO: Element found with locator as //button[@class = 'dropbtn minimal'] and locator type as xpath
+02/04/2020 04:07:52 - RegisterCoursePage - INFO: Scrolled to :: Payment Method
+02/04/2020 04:07:52 - RegisterCoursePage - INFO: Current Handle is: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame8
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'cardnumber'] and locator type as xpath
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:56 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:57 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:57 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:57 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:57 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:57 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:07:57 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:00 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame9
+02/04/2020 04:08:00 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'exp-date'] and locator type as xpath
+02/04/2020 04:08:00 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:00 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:00 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:00 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:00 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:03 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame10
+02/04/2020 04:08:03 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'cvc'] and locator type as xpath
+02/04/2020 04:08:03 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:03 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:03 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:03 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame11
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'postal'] and locator type as xpath
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: send data:: 0 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: send data:: 0 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:07 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:10 - RegisterCoursePage - INFO: Element not found with locator as //input[@value='IN'] and locator type as xpath
+02/04/2020 04:08:10 - RegisterCoursePage - INFO: Element not present with locator as //input[@value='IN'] and locator type as xpath
+02/04/2020 04:08:10 - RegisterCoursePage - INFO: Element found with locator as agreed_to_terms_checkbox and locator type as id
+02/04/2020 04:08:10 - RegisterCoursePage - INFO: Clicked on the element with locator as agreed_to_terms_checkbox and locator type as id
+02/04/2020 04:08:12 - RegisterCoursePage - INFO: Element found with locator as confirm-purchase and locator type as id
+02/04/2020 04:08:13 - RegisterCoursePage - INFO: Clicked on the element with locator as confirm-purchase and locator type as id
+02/04/2020 04:08:13 - RegisterCoursePage - INFO: Waiting for maximum:: 10 :: seconds for element to be clickable
+02/04/2020 04:08:18 - RegisterCoursePage - INFO: Element appeared on the webpage
+02/04/2020 04:08:18 - RegisterCoursePage - INFO: Element is displayed
+02/04/2020 04:08:18 - RegisterCoursePage - INFO: Element found with locator as //div[@class="payment-error-box"]//span[contains(text(), "The card was declined")] and locator type as xpath
+02/04/2020 04:08:18 - RegisterCoursePage - DEBUG: Before Finding Text
+02/04/2020 04:08:18 - RegisterCoursePage - DEBUG: After Finding Text, size is:22
+02/04/2020 04:08:18 - RegisterCoursePage - INFO: Getting text on element::Payment Error
+02/04/2020 04:08:18 - RegisterCoursePage - INFO: The Text is::'The card was declined.'
+02/04/2020 04:08:18 - RegisterCoursePage - INFO: Payment Error :The card was declined.
+02/04/2020 04:08:18 - Util - INFO: Actual text from Application Web UI --> The card was declined.
+02/04/2020 04:08:18 - Util - INFO: Expected text from Application Web UI --> The card was declined
+02/04/2020 04:08:18 - Util - INFO: ###Verification Text Contains
+02/04/2020 04:08:18 - TestStatus - INFO: ###Verification Successful:: Course register error Verification
+02/04/2020 04:08:18 - TestStatus - INFO: Invalid Course Registration###Test Successful
+02/04/2020 04:08:21 - NavigationPage - INFO: Element not found with locator as All Courses and locator type as linktext
+02/04/2020 04:08:21 - NavigationPage - INFO: Element not present with locator as All Courses and locator type as linktext
+02/04/2020 04:08:23 - RegisterCoursePage - INFO: Element found with locator as search-courses and locator type as id
+02/04/2020 04:08:27 - RegisterCoursePage - INFO: search data:: JavaScript :: to the element with locator as search-courses and locator type as id
+02/04/2020 04:08:27 - RegisterCoursePage - INFO: Element found with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'JavaScript for beginners')] and locator type as xpath
+02/04/2020 04:08:27 - RegisterCoursePage - INFO: Element present with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'JavaScript for beginners')] and locator type as xpath
+02/04/2020 04:08:27 - RegisterCoursePage - INFO: JavaScript for beginners is available
+02/04/2020 04:08:27 - RegisterCoursePage - INFO: Selecting the course :: JavaScript for beginners
+02/04/2020 04:08:27 - RegisterCoursePage - INFO: Element found with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'JavaScript for beginners')] and locator type as xpath
+02/04/2020 04:08:27 - RegisterCoursePage - INFO: Clicked on the element with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'JavaScript for beginners')] and locator type as xpath
+02/04/2020 04:08:33 - RegisterCoursePage - INFO: Element found with locator as enroll-button-top and locator type as id
+02/04/2020 04:08:39 - RegisterCoursePage - INFO: Clicked on the element with locator as enroll-button-top and locator type as id
+02/04/2020 04:08:39 - RegisterCoursePage - INFO: Element found with locator as //button[@class = 'dropbtn minimal'] and locator type as xpath
+02/04/2020 04:08:39 - RegisterCoursePage - INFO: Scrolled to :: Payment Method
+02/04/2020 04:08:39 - RegisterCoursePage - INFO: Current Handle is: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame8
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'cardnumber'] and locator type as xpath
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:43 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:44 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:44 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:44 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:47 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame9
+02/04/2020 04:08:47 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'exp-date'] and locator type as xpath
+02/04/2020 04:08:47 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:47 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:47 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:47 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:47 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:50 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame10
+02/04/2020 04:08:50 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'cvc'] and locator type as xpath
+02/04/2020 04:08:50 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:51 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:51 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:51 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame11
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'postal'] and locator type as xpath
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: send data:: 0 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: send data:: 0 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:08:54 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-E84A8DF3D8734B7E8C36D015D07A86FC
+02/04/2020 04:08:57 - RegisterCoursePage - INFO: Element not found with locator as //input[@value='IN'] and locator type as xpath
+02/04/2020 04:08:57 - RegisterCoursePage - INFO: Element not present with locator as //input[@value='IN'] and locator type as xpath
+02/04/2020 04:08:57 - RegisterCoursePage - INFO: Element found with locator as agreed_to_terms_checkbox and locator type as id
+02/04/2020 04:08:57 - RegisterCoursePage - INFO: Clicked on the element with locator as agreed_to_terms_checkbox and locator type as id
+02/04/2020 04:08:59 - RegisterCoursePage - INFO: Element found with locator as confirm-purchase and locator type as id
+02/04/2020 04:08:59 - RegisterCoursePage - INFO: Clicked on the element with locator as confirm-purchase and locator type as id
+02/04/2020 04:08:59 - RegisterCoursePage - INFO: Waiting for maximum:: 10 :: seconds for element to be clickable
+02/04/2020 04:09:05 - RegisterCoursePage - INFO: Element appeared on the webpage
+02/04/2020 04:09:05 - RegisterCoursePage - INFO: Element is displayed
+02/04/2020 04:09:05 - RegisterCoursePage - INFO: Element found with locator as //div[@class="payment-error-box"]//span[contains(text(), "The card was declined")] and locator type as xpath
+02/04/2020 04:09:05 - RegisterCoursePage - DEBUG: Before Finding Text
+02/04/2020 04:09:05 - RegisterCoursePage - DEBUG: After Finding Text, size is:22
+02/04/2020 04:09:05 - RegisterCoursePage - INFO: Getting text on element::Payment Error
+02/04/2020 04:09:05 - RegisterCoursePage - INFO: The Text is::'The card was declined.'
+02/04/2020 04:09:05 - RegisterCoursePage - INFO: Payment Error :The card was declined.
+02/04/2020 04:09:05 - Util - INFO: Actual text from Application Web UI --> The card was declined.
+02/04/2020 04:09:05 - Util - INFO: Expected text from Application Web UI --> The card was declined
+02/04/2020 04:09:05 - Util - INFO: ###Verification Text Contains
+02/04/2020 04:09:05 - TestStatus - INFO: ###Verification Successful:: Course register error Verification
+02/04/2020 04:09:05 - TestStatus - INFO: Invalid Course Registration###Test Successful
+02/04/2020 04:09:24 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:09:24 - LoginPage - INFO: Element present with locator as Login and locator type as linktext
+02/04/2020 04:09:24 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:09:31 - LoginPage - INFO: Clicked on the element with locator as Login and locator type as linktext
+02/04/2020 04:09:31 - LoginPage - INFO: Element found with locator as user_email and locator type as id
+02/04/2020 04:09:31 - LoginPage - INFO: send data:: test@email.com :: to the element with locator as user_email and locator type as id
+02/04/2020 04:09:31 - LoginPage - INFO: Element found with locator as user_password and locator type as id
+02/04/2020 04:09:32 - LoginPage - INFO: send data:: abcabc :: to the element with locator as user_password and locator type as id
+02/04/2020 04:09:32 - LoginPage - INFO: Element found with locator as commit and locator type as name
+02/04/2020 04:09:40 - LoginPage - INFO: Clicked on the element with locator as commit and locator type as name
+02/04/2020 04:09:40 - NavigationPage - INFO: Element found with locator as //li[@class='dropdown'] and locator type as xpath
+02/04/2020 04:09:40 - NavigationPage - INFO: Clicked on the element with locator as //li[@class='dropdown'] and locator type as xpath
+02/04/2020 04:09:40 - NavigationPage - INFO: Element found with locator as //a[contains(text(), 'Log Out')] and locator type as xpath
+02/04/2020 04:09:45 - NavigationPage - INFO: Clicked on the element with locator as //a[contains(text(), 'Log Out')] and locator type as xpath
+02/04/2020 04:09:45 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:09:45 - LoginPage - INFO: Element present with locator as Login and locator type as linktext
+02/04/2020 04:09:45 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:09:45 - LoginPage - INFO: Clicked on the element with locator as Login and locator type as linktext
+02/04/2020 04:09:49 - LoginPage - INFO: Element found with locator as user_email and locator type as id
+02/04/2020 04:09:49 - LoginPage - INFO: send data::  :: to the element with locator as user_email and locator type as id
+02/04/2020 04:09:49 - LoginPage - INFO: Element found with locator as user_password and locator type as id
+02/04/2020 04:09:49 - LoginPage - INFO: send data::  :: to the element with locator as user_password and locator type as id
+02/04/2020 04:09:49 - LoginPage - INFO: Element found with locator as commit and locator type as name
+02/04/2020 04:09:53 - LoginPage - INFO: Clicked on the element with locator as commit and locator type as name
+02/04/2020 04:09:53 - LoginPage - INFO: Element found with locator as //div[contains(text(), 'Invalid email or password')] and locator type as xpath
+02/04/2020 04:09:53 - LoginPage - INFO: Element present with locator as //div[contains(text(), 'Invalid email or password')] and locator type as xpath
+02/04/2020 04:09:53 - TestStatus - INFO: ###Verification Successful:: Invalid Login Verification
+02/04/2020 04:09:55 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:09:55 - LoginPage - INFO: Element present with locator as Login and locator type as linktext
+02/04/2020 04:09:55 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:09:55 - LoginPage - INFO: Clicked on the element with locator as Login and locator type as linktext
+02/04/2020 04:09:58 - LoginPage - INFO: Element found with locator as user_email and locator type as id
+02/04/2020 04:09:58 - LoginPage - INFO: send data:: test@email.com :: to the element with locator as user_email and locator type as id
+02/04/2020 04:09:58 - LoginPage - INFO: Element found with locator as user_password and locator type as id
+02/04/2020 04:09:58 - LoginPage - INFO: send data:: abcabc :: to the element with locator as user_password and locator type as id
+02/04/2020 04:09:58 - LoginPage - INFO: Element found with locator as commit and locator type as name
+02/04/2020 04:10:02 - LoginPage - INFO: Clicked on the element with locator as commit and locator type as name
+02/04/2020 04:10:02 - Util - INFO: Actual text from Application Web UI --> Let's Kode It
+02/04/2020 04:10:02 - Util - INFO: Expected text from Application Web UI --> Let's Kode It
+02/04/2020 04:10:02 - Util - INFO: ###Verification Text Contains
+02/04/2020 04:10:02 - TestStatus - INFO: ###Verification Successful:: Title Verification
+02/04/2020 04:10:02 - LoginPage - INFO: Element found with locator as //span[contains(text(), 'Test')] and locator type as xpath
+02/04/2020 04:10:02 - LoginPage - INFO: Element present with locator as //span[contains(text(), 'Test')] and locator type as xpath
+02/04/2020 04:10:02 - TestStatus - INFO: ###Verification Successful:: Valid Login Verification
+02/04/2020 04:10:02 - TestStatus - INFO: test_validLogin###Test Successful
+02/04/2020 04:27:50 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:27:50 - LoginPage - INFO: Element present with locator as Login and locator type as linktext
+02/04/2020 04:27:50 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:27:58 - LoginPage - INFO: Clicked on the element with locator as Login and locator type as linktext
+02/04/2020 04:27:58 - LoginPage - INFO: Element found with locator as user_email and locator type as id
+02/04/2020 04:27:59 - LoginPage - INFO: send data:: test@email.com :: to the element with locator as user_email and locator type as id
+02/04/2020 04:27:59 - LoginPage - INFO: Element found with locator as user_password and locator type as id
+02/04/2020 04:27:59 - LoginPage - INFO: send data:: abcabc :: to the element with locator as user_password and locator type as id
+02/04/2020 04:27:59 - LoginPage - INFO: Element found with locator as commit and locator type as name
+02/04/2020 04:28:09 - LoginPage - INFO: Clicked on the element with locator as commit and locator type as name
+02/04/2020 04:28:09 - NavigationPage - INFO: Element found with locator as All Courses and locator type as linktext
+02/04/2020 04:28:09 - NavigationPage - INFO: Element present with locator as All Courses and locator type as linktext
+02/04/2020 04:28:09 - NavigationPage - INFO: Element found with locator as All Courses and locator type as linktext
+02/04/2020 04:28:09 - NavigationPage - INFO: Clicked on the element with locator as All Courses and locator type as linktext
+02/04/2020 04:28:09 - RegisterCoursePage - INFO: Element found with locator as All Courses and locator type as linktext
+02/04/2020 04:28:10 - RegisterCoursePage - INFO: Clicked on the element with locator as All Courses and locator type as linktext
+02/04/2020 04:28:12 - RegisterCoursePage - INFO: Element found with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'Learn Python 3 from scratch')] and locator type as xpath
+02/04/2020 04:28:12 - RegisterCoursePage - INFO: Element present with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'Learn Python 3 from scratch')] and locator type as xpath
+02/04/2020 04:28:12 - RegisterCoursePage - INFO: Learn Python 3 from scratch is available
+02/04/2020 04:28:12 - RegisterCoursePage - INFO: Selecting the course :: Learn Python 3 from scratch
+02/04/2020 04:28:12 - RegisterCoursePage - INFO: Element found with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'Learn Python 3 from scratch')] and locator type as xpath
+02/04/2020 04:28:12 - RegisterCoursePage - INFO: Clicked on the element with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'Learn Python 3 from scratch')] and locator type as xpath
+02/04/2020 04:28:14 - RegisterCoursePage - INFO: Element found with locator as enroll-button-top and locator type as id
+02/04/2020 04:28:21 - RegisterCoursePage - INFO: Clicked on the element with locator as enroll-button-top and locator type as id
+02/04/2020 04:28:22 - RegisterCoursePage - INFO: Element found with locator as //button[@class = 'dropbtn minimal'] and locator type as xpath
+02/04/2020 04:28:22 - RegisterCoursePage - INFO: Scrolled to :: Payment Method
+02/04/2020 04:28:22 - RegisterCoursePage - INFO: Current Handle is: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame8
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'cardnumber'] and locator type as xpath
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:25 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:26 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:26 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:26 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:26 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:26 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:26 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:28:29 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame9
+02/04/2020 04:28:29 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'exp-date'] and locator type as xpath
+02/04/2020 04:28:29 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:29 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:29 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:29 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:29 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:28:33 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame10
+02/04/2020 04:28:33 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'cvc'] and locator type as xpath
+02/04/2020 04:28:33 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:33 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:33 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:33 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame11
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'postal'] and locator type as xpath
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: send data:: 0 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: send data:: 0 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:28:36 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:28:40 - RegisterCoursePage - INFO: Element not found with locator as //input[@value='IN'] and locator type as xpath
+02/04/2020 04:28:40 - RegisterCoursePage - INFO: Element not present with locator as //input[@value='IN'] and locator type as xpath
+02/04/2020 04:28:40 - RegisterCoursePage - INFO: Element found with locator as agreed_to_terms_checkbox and locator type as id
+02/04/2020 04:28:40 - RegisterCoursePage - INFO: Clicked on the element with locator as agreed_to_terms_checkbox and locator type as id
+02/04/2020 04:28:42 - RegisterCoursePage - INFO: Element found with locator as confirm-purchase and locator type as id
+02/04/2020 04:28:42 - RegisterCoursePage - INFO: Clicked on the element with locator as confirm-purchase and locator type as id
+02/04/2020 04:28:42 - RegisterCoursePage - INFO: Waiting for maximum:: 10 :: seconds for element to be clickable
+02/04/2020 04:28:48 - RegisterCoursePage - INFO: Element appeared on the webpage
+02/04/2020 04:28:48 - RegisterCoursePage - INFO: Element is displayed
+02/04/2020 04:28:48 - RegisterCoursePage - INFO: Element found with locator as //div[@class="payment-error-box"]//span[contains(text(), "The card was declined")] and locator type as xpath
+02/04/2020 04:28:48 - RegisterCoursePage - DEBUG: Before Finding Text
+02/04/2020 04:28:48 - RegisterCoursePage - DEBUG: After Finding Text, size is:22
+02/04/2020 04:28:48 - RegisterCoursePage - INFO: Getting text on element::Payment Error
+02/04/2020 04:28:48 - RegisterCoursePage - INFO: The Text is::'The card was declined.'
+02/04/2020 04:28:48 - RegisterCoursePage - INFO: Payment Error :The card was declined.
+02/04/2020 04:28:48 - Util - INFO: Actual text from Application Web UI --> The card was declined.
+02/04/2020 04:28:48 - Util - INFO: Expected text from Application Web UI --> The card was declined
+02/04/2020 04:28:48 - Util - INFO: ###Verification Text Contains
+02/04/2020 04:28:48 - TestStatus - INFO: ###Verification Successful:: Course register error Verification
+02/04/2020 04:28:48 - TestStatus - INFO: Invalid Course Registration###Test Successful
+02/04/2020 04:28:51 - NavigationPage - INFO: Element not found with locator as All Courses and locator type as linktext
+02/04/2020 04:28:51 - NavigationPage - INFO: Element not present with locator as All Courses and locator type as linktext
+02/04/2020 04:28:53 - RegisterCoursePage - INFO: Element found with locator as search-courses and locator type as id
+02/04/2020 04:28:55 - RegisterCoursePage - INFO: search data:: JavaScript :: to the element with locator as search-courses and locator type as id
+02/04/2020 04:28:55 - RegisterCoursePage - INFO: Element found with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'JavaScript for beginners')] and locator type as xpath
+02/04/2020 04:28:55 - RegisterCoursePage - INFO: Element present with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'JavaScript for beginners')] and locator type as xpath
+02/04/2020 04:28:55 - RegisterCoursePage - INFO: JavaScript for beginners is available
+02/04/2020 04:28:55 - RegisterCoursePage - INFO: Selecting the course :: JavaScript for beginners
+02/04/2020 04:28:55 - RegisterCoursePage - INFO: Element found with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'JavaScript for beginners')] and locator type as xpath
+02/04/2020 04:28:56 - RegisterCoursePage - INFO: Clicked on the element with locator as //div[contains(@class, 'course-listing-title') and contains(text(), 'JavaScript for beginners')] and locator type as xpath
+02/04/2020 04:28:57 - RegisterCoursePage - INFO: Element found with locator as enroll-button-top and locator type as id
+02/04/2020 04:29:05 - RegisterCoursePage - INFO: Clicked on the element with locator as enroll-button-top and locator type as id
+02/04/2020 04:29:05 - RegisterCoursePage - INFO: Element found with locator as //button[@class = 'dropbtn minimal'] and locator type as xpath
+02/04/2020 04:29:05 - RegisterCoursePage - INFO: Scrolled to :: Payment Method
+02/04/2020 04:29:05 - RegisterCoursePage - INFO: Current Handle is: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame8
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'cardnumber'] and locator type as xpath
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:08 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:09 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:09 - RegisterCoursePage - INFO: send data:: 5 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:09 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:09 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:09 - RegisterCoursePage - INFO: send data:: 7 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:09 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:29:12 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame9
+02/04/2020 04:29:12 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'exp-date'] and locator type as xpath
+02/04/2020 04:29:12 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:12 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:12 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:12 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:12 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:29:16 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame10
+02/04/2020 04:29:16 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'cvc'] and locator type as xpath
+02/04/2020 04:29:16 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:16 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:16 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:16 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: Switch to Iframe :: __privateStripeFrame11
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: Element found with locator as //input[@name = 'postal'] and locator type as xpath
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: send data:: 2 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: send data:: 0 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: send data:: 3 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: send data:: 0 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: send data:: 1 :: to the element with locator as  and locator type as id
+02/04/2020 04:29:19 - RegisterCoursePage - INFO: Switched to Handle:: CDwindow-93548C7300D54A1215C62B3038AAA1E5
+02/04/2020 04:29:22 - RegisterCoursePage - INFO: Element not found with locator as //input[@value='IN'] and locator type as xpath
+02/04/2020 04:29:22 - RegisterCoursePage - INFO: Element not present with locator as //input[@value='IN'] and locator type as xpath
+02/04/2020 04:29:22 - RegisterCoursePage - INFO: Element found with locator as agreed_to_terms_checkbox and locator type as id
+02/04/2020 04:29:23 - RegisterCoursePage - INFO: Clicked on the element with locator as agreed_to_terms_checkbox and locator type as id
+02/04/2020 04:29:25 - RegisterCoursePage - INFO: Element found with locator as confirm-purchase and locator type as id
+02/04/2020 04:29:25 - RegisterCoursePage - INFO: Clicked on the element with locator as confirm-purchase and locator type as id
+02/04/2020 04:29:25 - RegisterCoursePage - INFO: Waiting for maximum:: 10 :: seconds for element to be clickable
+02/04/2020 04:29:32 - RegisterCoursePage - INFO: Element appeared on the webpage
+02/04/2020 04:29:32 - RegisterCoursePage - INFO: Element is displayed
+02/04/2020 04:29:32 - RegisterCoursePage - INFO: Element found with locator as //div[@class="payment-error-box"]//span[contains(text(), "The card was declined")] and locator type as xpath
+02/04/2020 04:29:32 - RegisterCoursePage - DEBUG: Before Finding Text
+02/04/2020 04:29:32 - RegisterCoursePage - DEBUG: After Finding Text, size is:22
+02/04/2020 04:29:32 - RegisterCoursePage - INFO: Getting text on element::Payment Error
+02/04/2020 04:29:32 - RegisterCoursePage - INFO: The Text is::'The card was declined.'
+02/04/2020 04:29:32 - RegisterCoursePage - INFO: Payment Error :The card was declined.
+02/04/2020 04:29:32 - Util - INFO: Actual text from Application Web UI --> The card was declined.
+02/04/2020 04:29:32 - Util - INFO: Expected text from Application Web UI --> The card was declined
+02/04/2020 04:29:32 - Util - INFO: ###Verification Text Contains
+02/04/2020 04:29:32 - TestStatus - INFO: ###Verification Successful:: Course register error Verification
+02/04/2020 04:29:32 - TestStatus - INFO: Invalid Course Registration###Test Successful
+02/04/2020 04:29:48 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:29:48 - LoginPage - INFO: Element present with locator as Login and locator type as linktext
+02/04/2020 04:29:48 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:30:01 - LoginPage - INFO: Clicked on the element with locator as Login and locator type as linktext
+02/04/2020 04:30:01 - LoginPage - INFO: Element found with locator as user_email and locator type as id
+02/04/2020 04:30:02 - LoginPage - INFO: send data:: test@email.com :: to the element with locator as user_email and locator type as id
+02/04/2020 04:30:02 - LoginPage - INFO: Element found with locator as user_password and locator type as id
+02/04/2020 04:30:02 - LoginPage - INFO: send data:: abcabc :: to the element with locator as user_password and locator type as id
+02/04/2020 04:30:02 - LoginPage - INFO: Element found with locator as commit and locator type as name
+02/04/2020 04:30:10 - LoginPage - INFO: Clicked on the element with locator as commit and locator type as name
+02/04/2020 04:30:10 - NavigationPage - INFO: Element found with locator as //li[@class='dropdown'] and locator type as xpath
+02/04/2020 04:30:10 - NavigationPage - INFO: Clicked on the element with locator as //li[@class='dropdown'] and locator type as xpath
+02/04/2020 04:30:10 - NavigationPage - INFO: Element found with locator as //a[contains(text(), 'Log Out')] and locator type as xpath
+02/04/2020 04:30:14 - NavigationPage - INFO: Clicked on the element with locator as //a[contains(text(), 'Log Out')] and locator type as xpath
+02/04/2020 04:30:14 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:30:14 - LoginPage - INFO: Element present with locator as Login and locator type as linktext
+02/04/2020 04:30:14 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:30:15 - LoginPage - INFO: Clicked on the element with locator as Login and locator type as linktext
+02/04/2020 04:30:18 - LoginPage - INFO: Element found with locator as user_email and locator type as id
+02/04/2020 04:30:18 - LoginPage - INFO: send data::  :: to the element with locator as user_email and locator type as id
+02/04/2020 04:30:18 - LoginPage - INFO: Element found with locator as user_password and locator type as id
+02/04/2020 04:30:18 - LoginPage - INFO: send data::  :: to the element with locator as user_password and locator type as id
+02/04/2020 04:30:18 - LoginPage - INFO: Element found with locator as commit and locator type as name
+02/04/2020 04:30:20 - LoginPage - INFO: Clicked on the element with locator as commit and locator type as name
+02/04/2020 04:30:20 - LoginPage - INFO: Element found with locator as //div[contains(text(), 'Invalid email or password')] and locator type as xpath
+02/04/2020 04:30:20 - LoginPage - INFO: Element present with locator as //div[contains(text(), 'Invalid email or password')] and locator type as xpath
+02/04/2020 04:30:20 - TestStatus - INFO: ###Verification Successful:: Invalid Login Verification
+02/04/2020 04:30:22 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:30:22 - LoginPage - INFO: Element present with locator as Login and locator type as linktext
+02/04/2020 04:30:22 - LoginPage - INFO: Element found with locator as Login and locator type as linktext
+02/04/2020 04:30:22 - LoginPage - INFO: Clicked on the element with locator as Login and locator type as linktext
+02/04/2020 04:30:26 - LoginPage - INFO: Element found with locator as user_email and locator type as id
+02/04/2020 04:30:26 - LoginPage - INFO: send data:: test@email.com :: to the element with locator as user_email and locator type as id
+02/04/2020 04:30:26 - LoginPage - INFO: Element found with locator as user_password and locator type as id
+02/04/2020 04:30:26 - LoginPage - INFO: send data:: abcabc :: to the element with locator as user_password and locator type as id
+02/04/2020 04:30:26 - LoginPage - INFO: Element found with locator as commit and locator type as name
+02/04/2020 04:30:33 - LoginPage - INFO: Clicked on the element with locator as commit and locator type as name
+02/04/2020 04:30:33 - Util - INFO: Actual text from Application Web UI --> Let's Kode It
+02/04/2020 04:30:33 - Util - INFO: Expected text from Application Web UI --> Let's Kode It
+02/04/2020 04:30:33 - Util - INFO: ###Verification Text Contains
+02/04/2020 04:30:33 - TestStatus - INFO: ###Verification Successful:: Title Verification
+02/04/2020 04:30:33 - LoginPage - INFO: Element found with locator as //span[contains(text(), 'Test')] and locator type as xpath
+02/04/2020 04:30:33 - LoginPage - INFO: Element present with locator as //span[contains(text(), 'Test')] and locator type as xpath
+02/04/2020 04:30:33 - TestStatus - INFO: ###Verification Successful:: Valid Login Verification
+02/04/2020 04:30:33 - TestStatus - INFO: test_validLogin###Test Successful
