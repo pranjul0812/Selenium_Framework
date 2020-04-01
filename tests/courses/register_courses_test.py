@@ -6,11 +6,11 @@ from ddt import ddt, data, unpack
 
 
 @ddt
-@pytest.mark.usefixtures("oneTimeRegisterCourseTestSetUp")
+@pytest.mark.usefixtures("oneTimeSetUp")
 class RegisterCoursesTest(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
-    def classSetUp(self, oneTimeRegisterCourseTestSetUp):
+    def classSetUp(self, oneTimeSetUp):
         self.ts = TestStatus(self.driver)
         self.rp = RegisterCoursePage(self.driver)
 

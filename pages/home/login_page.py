@@ -1,6 +1,7 @@
 from Selenium.automation_framework_prac.utilities import custom_logger_utility as cl
 import logging
 from Selenium.automation_framework_prac.base.basepage import BasePage
+from Selenium.automation_framework_prac.pages.home.navigation_page import NavigationPage
 
 
 class LoginPage(BasePage):
@@ -10,14 +11,14 @@ class LoginPage(BasePage):
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver
-
+        self.np = NavigationPage(driver)
 
     # locators
     _login_link = 'Login'
     _email_field = 'user_email'
     _password_field = 'user_password'
     _login_button = 'commit'
-    _verify_login_pass = "//span[text()='pranjul']"
+    _verify_login_pass = "//span[contains(text(), 'Test')]"
     _verify_login_fail = "//div[contains(text(), 'Invalid email or password')]"
     _remove_popup = "//svg[@role='img']"
 
@@ -55,5 +56,7 @@ class LoginPage(BasePage):
         return result
 
     def verifyLoginTitle(self):
-        return self.verifyPageTitle("Let's Kode Its")
+        return self.verifyPageTitle("Let's Kode It")
 
+    def logout(self):
+        self.np.logOut()

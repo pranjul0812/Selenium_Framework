@@ -4,19 +4,21 @@ import unittest
 from Selenium.automation_framework_prac.pages.courses.register_course import RegisterCoursePage
 from ddt import ddt, data, unpack
 from Selenium.automation_framework_prac.utilities.readCSV import getCSVData
+from Selenium.automation_framework_prac.pages.home.navigation_page import NavigationPage
 
 
 @ddt
-@pytest.mark.usefixtures("oneTimeRegisterCourseTestSetUp")
+@pytest.mark.usefixtures("oneTimeSetUp")
 class RegisterCoursesCSVDataTest(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
-    def classSetUp(self, oneTimeRegisterCourseTestSetUp):
+    def classSetUp(self, oneTimeSetUp):
         self.ts = TestStatus(self.driver)
         self.rp = RegisterCoursePage(self.driver)
+        self.np = NavigationPage(self.driver)
 
     def setUp(self):
-        self.driver.get("https://learn.letskodeit.com/courses")
+        self.np.navigateToAllCourses()
 
     @data(*getCSVData("C:\\Users\\Pranjul Mishra\\PycharmProjects\\MyDirectory\\Selenium\\automation_framework_prac\\testdata.csv"))
     @unpack

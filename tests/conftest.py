@@ -15,20 +15,6 @@ def oneTimeSetUp(request, browser):
     print("Running conftest one time setup")
     wdf = WebDriverFactory(browser)
     driver = wdf.getWebDriverInstance()
-
-    if request.cls is not None:
-        request.cls.driver = driver
-
-    yield driver
-    print("Running conftest one time teardown")
-    driver.quit()
-
-
-@pytest.yield_fixture(scope="class")
-def oneTimeRegisterCourseTestSetUp(request, browser):
-    print("Running RegisterCourse test one time setup")
-    wdf = WebDriverFactory(browser)
-    driver = wdf.getWebDriverInstance()
     lp = LoginPage(driver)
     lp.login("test@email.com", 'abcabc')
 
@@ -36,7 +22,7 @@ def oneTimeRegisterCourseTestSetUp(request, browser):
         request.cls.driver = driver
 
     yield driver
-    print("Running Running RegisterCourse test one time teardown")
+    print("Running conftest one time teardown")
     driver.quit()
 
 

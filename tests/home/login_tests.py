@@ -15,10 +15,9 @@ class LoginTests(unittest.TestCase):
         self.driver.back()
         self.driver.back()
 
-
     @pytest.mark.run(order=2)
     def test_validLogin(self):
-        self.lp.login("pranjul0812@gmail.com", "25december")
+        self.lp.login("test@email.com", "abcabc")
         result1 = self.lp.verifyLoginTitle()
         self.ts.mark(result1, "Title Verification")
         result2 = self.lp.verifyLoginSuccessful()
@@ -26,8 +25,9 @@ class LoginTests(unittest.TestCase):
 
     @pytest.mark.run(order=1)
     def test_invalidLogin(self):
+        self.lp.logout()
         self.lp.login()
         result = self.lp.verifyLoginFail()
-        self.ts.mark(result, "Invalid Login Verifation")
+        self.ts.mark(result, "Invalid Login Verification")
 
 
