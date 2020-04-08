@@ -1,5 +1,5 @@
 # Selenium_Framework
-Disclaimer: the test site has now added capcha while login so the scripts can no longer be give the desired result.
+Disclaimer: the test site has now added capcha while login so the scripts can no longer give the desired result.
 to run the commands successfully you need to do below changes after cloning the project.
 rename the project/folder name as "automation_framework_prac" instead of "Selenium_Frameowrk"
 install pytest, pytest-html, ddt
