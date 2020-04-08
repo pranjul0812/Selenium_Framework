@@ -1,6 +1,8 @@
 # Selenium_Framework
-Disclaimer: the test site has now added capcha while login so the scripts can no longer give the desired result.
-to run the commands successfully you need to do below changes after cloning the project.
+Use Chrome Version >= 80.0.3987.163
+Disclaimer: for version below 80 (such as version 73.0.3683.75) >> the test site shows capcha while login so the scripts can no longer give the desired result.
+To run the scripts successfully you need to do below changes after cloning the project.
+Steps after Cloning the project in local PC:-
 rename the project/folder name as "automation_framework_prac" instead of "Selenium_Frameowrk"
 install pytest, pytest-html, ddt
 change the chromedriver/iedriver path in the base/webdriverfactory.py
